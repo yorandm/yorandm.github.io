@@ -1,0 +1,9 @@
+body {
+    background-color: bisque;
+}
+
+img {
+    display: block;
+    width: 300px;
+    height: auto;
+}
